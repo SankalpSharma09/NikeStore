@@ -400,6 +400,7 @@ footer{
 
 .fIcons{
     display: flex;
+    cursor: pointer;
 }
 
 .ficon{
